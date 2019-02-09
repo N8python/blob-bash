@@ -84,7 +84,7 @@ function create() {
       button: "Ok, got it!"
     }).then(value => {
       swal({
-        title: "Don't let the evil robots touch you or escape",
+        title: "Don't let the evil robots touch you or escape.",
         text: `Avoid the evil robots. Don't let them leave the screen or touch you, if you do. You lose a life. When you lose all your lives, it's game over.`,
         icon: "warning",
         button: "Ok, got it!"
